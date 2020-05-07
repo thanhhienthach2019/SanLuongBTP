@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KHKDModelStoreContainer" CdmEntityContainer="KHKDEntities">
+    <EntitySetMapping Name="DonViBTPSaps">
+      <EntityTypeMapping TypeName="KHKDModel.DonViBTPSap">
+        <MappingFragment StoreEntitySet="DonViBTPSap">
+          <ScalarProperty Name="MS_DV_Sap" ColumnName="MS_DV_Sap" />
+          <ScalarProperty Name="MS_DV" ColumnName="MS_DV" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SanLuongBTPs">
+      <EntityTypeMapping TypeName="KHKDModel.SanLuongBTP">
+        <MappingFragment StoreEntitySet="SanLuongBTP">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IsSapData" ColumnName="IsSapData" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+          <ScalarProperty Name="Ngay" ColumnName="Ngay" />
+          <ScalarProperty Name="MS_DV" ColumnName="MS_DV" />
+          <ScalarProperty Name="MaSP" ColumnName="MaSP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

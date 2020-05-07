@@ -1,0 +1,21 @@
+F:\Project C#\SanLuongBTP\Services\bin\Debug\Services.dll
+F:\Project C#\SanLuongBTP\Services\bin\Debug\Services.pdb
+F:\Project C#\SanLuongBTP\Services\bin\Debug\DocumentFormat.OpenXml.dll
+F:\Project C#\SanLuongBTP\Services\obj\Debug\Services.csprojAssemblyReference.cache
+F:\Project C#\SanLuongBTP\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+F:\Project C#\SanLuongBTP\Services\obj\Debug\Services.csproj.CopyComplete
+F:\Project C#\SanLuongBTP\Services\obj\Debug\Services.dll
+F:\Project C#\SanLuongBTP\Services\obj\Debug\Services.pdb
+F:\Project C#\SanLuongBTP\Services\bin\Debug\System.Net.Http.Formatting.dll
+F:\Project C#\SanLuongBTP\Services\bin\Debug\Newtonsoft.Json.dll
+F:\Project C#\SanLuongBTP\Services\bin\Debug\System.Net.Http.Formatting.xml
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Services\bin\Debug\Services.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Services\bin\Debug\Services.pdb
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Services\bin\Debug\DocumentFormat.OpenXml.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Services\bin\Debug\Newtonsoft.Json.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Services\bin\Debug\System.Net.Http.Formatting.xml
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Services\obj\Debug\Services.csprojAssemblyReference.cache
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Services\obj\Debug\Services.csproj.CopyComplete
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Services\obj\Debug\Services.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Services\obj\Debug\Services.pdb

@@ -1,0 +1,30 @@
+F:\Project C#\SanLuongBTP\Infrastructure\obj\Debug\Infrastructure.csprojAssemblyReference.cache
+F:\Project C#\SanLuongBTP\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+F:\Project C#\SanLuongBTP\Infrastructure\bin\Debug\Infrastructure.dll.config
+F:\Project C#\SanLuongBTP\Infrastructure\bin\Debug\Infrastructure.dll
+F:\Project C#\SanLuongBTP\Infrastructure\bin\Debug\Infrastructure.pdb
+F:\Project C#\SanLuongBTP\Infrastructure\bin\Debug\Data.dll
+F:\Project C#\SanLuongBTP\Infrastructure\bin\Debug\EntityFramework.dll
+F:\Project C#\SanLuongBTP\Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+F:\Project C#\SanLuongBTP\Infrastructure\bin\Debug\Data.pdb
+F:\Project C#\SanLuongBTP\Infrastructure\bin\Debug\Data.dll.config
+F:\Project C#\SanLuongBTP\Infrastructure\bin\Debug\EntityFramework.xml
+F:\Project C#\SanLuongBTP\Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+F:\Project C#\SanLuongBTP\Infrastructure\obj\Debug\Infrastructure.csproj.CopyComplete
+F:\Project C#\SanLuongBTP\Infrastructure\obj\Debug\Infrastructure.dll
+F:\Project C#\SanLuongBTP\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Infrastructure\bin\Debug\Infrastructure.dll.config
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Infrastructure\bin\Debug\Infrastructure.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Infrastructure\bin\Debug\Data.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Infrastructure\bin\Debug\EntityFramework.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Infrastructure\bin\Debug\Data.pdb
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Infrastructure\bin\Debug\Data.dll.config
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Infrastructure\bin\Debug\EntityFramework.xml
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Infrastructure\obj\Debug\Infrastructure.csprojAssemblyReference.cache
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Infrastructure\obj\Debug\Infrastructure.csproj.CopyComplete
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Infrastructure\obj\Debug\Infrastructure.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Infrastructure\obj\Debug\Infrastructure.pdb

@@ -1,0 +1,218 @@
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\SanLuongBTP.exe.config
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\SanLuongBTP.exe
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\SanLuongBTP.pdb
+F:\Project C#\SanLuongBTP\SanLuongBTP\obj\Debug\SanLuongBTP.csprojAssemblyReference.cache
+F:\Project C#\SanLuongBTP\SanLuongBTP\obj\Debug\SanLuongBTP.Properties.Resources.resources
+F:\Project C#\SanLuongBTP\SanLuongBTP\obj\Debug\SanLuongBTP.csproj.GenerateResource.cache
+F:\Project C#\SanLuongBTP\SanLuongBTP\obj\Debug\SanLuongBTP.csproj.CoreCompileInputs.cache
+F:\Project C#\SanLuongBTP\SanLuongBTP\obj\Debug\SanLuongBTP.exe
+F:\Project C#\SanLuongBTP\SanLuongBTP\obj\Debug\SanLuongBTP.pdb
+F:\Project C#\SanLuongBTP\SanLuongBTP\obj\Debug\SanLuongBTP.FrmNhapSanLuong.resources
+F:\Project C#\SanLuongBTP\SanLuongBTP\obj\Debug\SanLuongBTP.exe.licenses
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\Data.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Data.v18.1.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Utils.v18.1.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\Infrastructure.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\EntityFramework.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraBars.v18.1.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Office.v18.1.Core.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Images.v18.1.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\Data.pdb
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\Data.dll.config
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\Infrastructure.pdb
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\Infrastructure.dll.config
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Data.v18.1.xml
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Utils.v18.1.xml
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\EntityFramework.xml
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraBars.v18.1.xml
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Office.v18.1.Core.xml
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\obj\Debug\SanLuongBTP.csproj.CopyComplete
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\EntityFramework.SqlServer.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\EntityFramework.SqlServer.xml
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\Entities.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\System.Net.Http.Formatting.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\Newtonsoft.Json.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\Entities.pdb
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\System.Net.Http.Formatting.xml
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\Services.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\DocumentFormat.OpenXml.dll
+F:\Project C#\SanLuongBTP\SanLuongBTP\bin\Debug\Services.pdb
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\obj\Debug\SanLuongBTP.csprojAssemblyReference.cache
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\obj\Debug\SanLuongBTP.frmNhapSanLuong.resources
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\obj\Debug\SanLuongBTP.Properties.Resources.resources
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\obj\Debug\SanLuongBTP.csproj.GenerateResource.cache
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\obj\Debug\SanLuongBTP.exe.licenses
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\obj\Debug\SanLuongBTP.csproj.CoreCompileInputs.cache
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\obj\Debug\SanLuongBTP.exe
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\obj\Debug\SanLuongBTP.pdb
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\SanLuongBTP.exe.config
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\SanLuongBTP.exe
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\SanLuongBTP.pdb
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\Data.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Data.v18.1.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\Entities.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\EntityFramework.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\EntityFramework.SqlServer.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\Infrastructure.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\Services.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DocumentFormat.OpenXml.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\System.Net.Http.Formatting.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraBars.v18.1.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\Newtonsoft.Json.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Office.v18.1.Core.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Images.v18.1.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\Data.pdb
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\Data.dll.config
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\Entities.pdb
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\Infrastructure.pdb
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\Infrastructure.dll.config
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\Services.pdb
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Data.v18.1.xml
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\EntityFramework.xml
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\EntityFramework.SqlServer.xml
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\System.Net.Http.Formatting.xml
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraBars.v18.1.xml
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\DevExpress.Office.v18.1.Core.xml
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\SanLuongBTP\obj\Debug\SanLuongBTP.csproj.CopyComplete

@@ -1,0 +1,12 @@
+F:\Project C#\SanLuongBTP\Entities\bin\Debug\Entities.dll
+F:\Project C#\SanLuongBTP\Entities\bin\Debug\Entities.pdb
+F:\Project C#\SanLuongBTP\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+F:\Project C#\SanLuongBTP\Entities\obj\Debug\Entities.dll
+F:\Project C#\SanLuongBTP\Entities\obj\Debug\Entities.pdb
+F:\Project C#\SanLuongBTP\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Entities\bin\Debug\Entities.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Entities\bin\Debug\Entities.pdb
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Entities\obj\Debug\Entities.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Entities\obj\Debug\Entities.pdb
