@@ -19,3 +19,11 @@ D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Services\obj\Debug\Services.csproj.CoreCo
 D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Services\obj\Debug\Services.csproj.CopyComplete
 D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Services\obj\Debug\Services.dll
 D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Services\obj\Debug\Services.pdb
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Services\bin\Debug\Data.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Services\bin\Debug\Infrastructure.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Services\bin\Debug\EntityFramework.dll
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Services\bin\Debug\Data.pdb
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Services\bin\Debug\Data.dll.config
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Services\bin\Debug\Infrastructure.pdb
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Services\bin\Debug\Infrastructure.dll.config
+D:\SanLuongBTP\SanLuongBTP\SanLuongBTP\Services\bin\Debug\EntityFramework.xml
